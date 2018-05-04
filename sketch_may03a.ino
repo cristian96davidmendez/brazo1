@@ -1,5 +1,5 @@
 #include <Servo.h>
-#define pinGarra 9
+#define pinGarra 8
 #define pinDerecha 10
 #define pinBase 11
 #define pinIzquierda 12
